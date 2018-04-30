@@ -1,0 +1,12 @@
+assets/06_Gravity_Man.mp3 Gravity_Man
+assets/sound_charge.wav Charge
+assets/sound_power_up.wav Power_Up
+assets/30_Wily_Stage_1.mp3 Wily_Stage
+assets/sound_shadow_blade.wav Shadow_Blade
+assets/sound_pause.wav Pause
+assets/16_Get_a_Weapon.mp3 Get_Weapon
+assets/sound_menu_select.wav Select
+assets/sound_man_get.wav Man_Get
+assets/sound_died.wav Death_Sound
+assets/sound_door_open.wav Door
+assets/sound_whistle.wav Whistle

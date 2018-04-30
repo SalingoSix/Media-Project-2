@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\media fundamentals\project_02\media_project_02\media_project_02\main.cpp(1233): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\alexm\documents\game development - advanced programming 2017\media fundamentals\project_02\media_project_02\media_project_02\main.cpp(1246): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\alexm\documents\game development - advanced programming 2017\media fundamentals\project_02\media_project_02\media_project_02\main.cpp(1303): warning C4305: '=': truncation from 'double' to 'float'
+  Media_Project_02.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Media Fundamentals\Project_02\Media_Project_02\Debug\Media_Project_02.exe
+  Media_Project_02.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Media Fundamentals\Project_02\Media_Project_02\Debug\Media_Project_02.pdb (Partial PDB)
